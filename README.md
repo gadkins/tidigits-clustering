@@ -26,5 +26,6 @@ Configuration:
 
 DATA_ROOT should point to your tidigits directory
 Expected subdirectories:
-   mfc/train - training features
-   mfc/test - test features
+
+mfc/train
+mfc/test
