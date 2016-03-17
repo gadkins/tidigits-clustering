@@ -12,8 +12,8 @@ of training data. Novel test samples are then compared to the
 model, and a prediction is made about the membership of a given 
 sample to one of the classes.
 
-TIDIGITS is a corpus of spoken digits between 0-9. The data 
-set makeup includes 326 male and female speakers ranging from 
+TIDIGITS is a corpus of spoken digits between 0-9. The dataset is
+composed of audio files from 326 male and female speakers ranging from 
 6 to 70 years of age. The data consists of over twenty 
 thousand training and forty-two thousand testing feature files 
 extracted via a hidden Markov model toolkit. Each speaker recited
